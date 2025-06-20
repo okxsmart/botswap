@@ -103,5 +103,3 @@ Join the Telegram group for feedback or questions:
 👉 [t.me/smartbot_okx](https://t.me/smartbot_okx)
 
 ---
-
-# botswap
